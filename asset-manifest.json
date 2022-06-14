@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/beeline_interns/static/css/main.b09ab370.css",
+    "main.js": "/beeline_interns/static/js/main.0e9ff6e7.js",
+    "static/js/787.611d739c.chunk.js": "/beeline_interns/static/js/787.611d739c.chunk.js",
+    "static/media/123.jpg": "/beeline_interns/static/media/123.a66b6fe80073f3a7c096.jpg",
+    "static/media/456.jpeg": "/beeline_interns/static/media/456.ca019f8e9f89923a9d0b.jpeg",
+    "index.html": "/beeline_interns/index.html",
+    "main.b09ab370.css.map": "/beeline_interns/static/css/main.b09ab370.css.map",
+    "main.0e9ff6e7.js.map": "/beeline_interns/static/js/main.0e9ff6e7.js.map",
+    "787.611d739c.chunk.js.map": "/beeline_interns/static/js/787.611d739c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b09ab370.css",
+    "static/js/main.0e9ff6e7.js"
+  ]
+}
